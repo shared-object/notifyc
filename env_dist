@@ -1,0 +1,6 @@
+REPO_URL=https://github.com/xllwhoami/testo
+BOT_TOKEN=UR TOKEN
+CHAT_ID=UR CHAT ID
+LOCAL_REPO_PATH=./path/to/location
+BRANCH=main
+CHECK_INTERVAL=60
