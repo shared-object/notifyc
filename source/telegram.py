@@ -1,6 +1,6 @@
 import requests
 
-API_ENDPOINT = "https://api.telegram.orgg"
+API_ENDPOINT = "https://api.telegram.org"
 
 
 def notify(bot_token: str, chat_id: int, text: str) -> None:
